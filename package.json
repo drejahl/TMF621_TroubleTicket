@@ -1,0 +1,23 @@
+{
+  "name": "tt-api",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Trouble Ticket API",
+  "keywords": [],
+  "author": "Dirk Rejahl",
+  "license": "",
+  "main": "app.js",
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "swagger-parser": "^5.0.0",
+    "swagger-tools": "^0.10.1"
+  },
+  "devDependencies": {
+    "should": "^7.1.0",
+    "supertest": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo 'no test'"
+  }
+}
