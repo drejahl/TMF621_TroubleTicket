@@ -17,7 +17,7 @@
     "supertest": "^1.0.0"
   },
   "scripts": {
-    "build": "node app.js > Trouble_Ticket.swagger.json",
+    "build": "node app.js > ./dist/Trouble_Ticket.swagger.json",
     "test": "echo 'no test'"
   }
 }
