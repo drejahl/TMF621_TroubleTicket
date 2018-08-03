@@ -46,25 +46,25 @@
                         }
                     },
                     "400": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/400-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/400-response/1-0-0"
                     },
                     "401": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/401-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/401-response/1-0-0"
                     },
                     "403": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/403-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/403-response/1-0-0"
                     },
                     "404": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/404-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/404-response/1-0-0"
                     },
                     "405": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/405-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/405-response/1-0-0"
                     },
                     "409": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/409-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/409-response/1-0-0"
                     },
                     "500": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/500-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/500-response/1-0-0"
                     }
                 }
             },
@@ -289,25 +289,25 @@
                         }
                     },
                     "400": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/400-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/400-response/1-0-0"
                     },
                     "401": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/401-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/401-response/1-0-0"
                     },
                     "403": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/403-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/403-response/1-0-0"
                     },
                     "404": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/404-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/404-response/1-0-0"
                     },
                     "405": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/405-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/405-response/1-0-0"
                     },
                     "409": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/409-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/409-response/1-0-0"
                     },
                     "500": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/500-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/500-response/1-0-0"
                     }
                 }
             }
@@ -334,25 +334,25 @@
                         "description": "Deleted"
                     },
                     "400": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/400-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/400-response/1-0-0"
                     },
                     "401": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/401-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/401-response/1-0-0"
                     },
                     "403": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/403-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/403-response/1-0-0"
                     },
                     "404": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/404-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/404-response/1-0-0"
                     },
                     "405": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/405-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/405-response/1-0-0"
                     },
                     "409": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/409-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/409-response/1-0-0"
                     },
                     "500": {
-                      "$ref": "../TMF_SCHEMAS/definitions/responses/500-response-schema.json"
+                      "$ref": "https://api.experimenz.com/v1/oas/schema/500-response/1-0-0"
                     }
                 }
             }
